@@ -7,5 +7,5 @@ web application to upload photos following the MVC pattern.
 
 ## Features
 - Gallery of uploaded photos with pagination
-* User registration and login
-* Creating thumbnails and adding watermarks to photos
+- User registration and login
+- Creating thumbnails and adding watermarks to photos
