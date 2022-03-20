@@ -1,5 +1,5 @@
 # php-gallery
-Project for Development of Web Applications
+Project for Development of Web Applications at Gdansk University of Technology
 
 ## About the project
 The goal of the project was to create a simple
